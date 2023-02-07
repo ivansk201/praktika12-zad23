@@ -1,0 +1,10 @@
+C:\Users\305-6\Desktop\Скворцов Иван\praktika11-12\praktika11-12\bin\Debug\praktika11-12.exe.config
+C:\Users\305-6\Desktop\Скворцов Иван\praktika11-12\praktika11-12\bin\Debug\praktika11-12.exe
+C:\Users\305-6\Desktop\Скворцов Иван\praktika11-12\praktika11-12\bin\Debug\praktika11-12.pdb
+C:\Users\305-6\Desktop\Скворцов Иван\praktika11-12\praktika11-12\obj\Debug\praktika11-12.csproj.AssemblyReference.cache
+C:\Users\305-6\Desktop\Скворцов Иван\praktika11-12\praktika11-12\obj\Debug\praktika11_12.Form1.resources
+C:\Users\305-6\Desktop\Скворцов Иван\praktika11-12\praktika11-12\obj\Debug\praktika11_12.Properties.Resources.resources
+C:\Users\305-6\Desktop\Скворцов Иван\praktika11-12\praktika11-12\obj\Debug\praktika11-12.csproj.GenerateResource.cache
+C:\Users\305-6\Desktop\Скворцов Иван\praktika11-12\praktika11-12\obj\Debug\praktika11-12.csproj.CoreCompileInputs.cache
+C:\Users\305-6\Desktop\Скворцов Иван\praktika11-12\praktika11-12\obj\Debug\praktika11-12.exe
+C:\Users\305-6\Desktop\Скворцов Иван\praktika11-12\praktika11-12\obj\Debug\praktika11-12.pdb

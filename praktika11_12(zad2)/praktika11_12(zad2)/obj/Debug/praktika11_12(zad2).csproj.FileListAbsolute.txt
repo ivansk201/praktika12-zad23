@@ -1,0 +1,11 @@
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\bin\Debug\praktika11_12(zad2).exe.config
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\bin\Debug\praktika11_12(zad2).exe
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\bin\Debug\praktika11_12(zad2).pdb
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\obj\Debug\praktika11_12(zad2).csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\obj\Debug\praktika11_12(zad2).csproj.SuggestedBindingRedirects.cache
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\obj\Debug\praktika11_12_zad2_.Form1.resources
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\obj\Debug\praktika11_12_zad2_.Properties.Resources.resources
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\obj\Debug\praktika11_12(zad2).csproj.GenerateResource.cache
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\obj\Debug\praktika11_12(zad2).csproj.CoreCompileInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\obj\Debug\praktika11_12(zad2).exe
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\praktika11_12(zad2)\praktika11_12(zad2)\obj\Debug\praktika11_12(zad2).pdb
